@@ -1,0 +1,1 @@
+0 4 * * * /usr/local/bin/command > /dev/null 2>&1
