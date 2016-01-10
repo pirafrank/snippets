@@ -1,0 +1,10 @@
+
+/* type your email with a space between each letter, then use this class
+Thanks to the negative letter spacing the email will be displayed correctly
+but thanks to the spaces bots will not detect it.
+Works well with Roboto font. */
+
+.safe-email a {
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: -0.10em;
+}

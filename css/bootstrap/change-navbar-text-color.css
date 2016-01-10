@@ -1,0 +1,11 @@
+
+/* In your custom.css try this */
+
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: #707070;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #000;
+}
+
+/* (P.S. It's a bit hard to determine what exactly will work because you haven't provided the HTML that this CSS is applied to. I had to look at your github repo views erbs to determine that you are using .navbar-inverse. if you had a working page to link to or a jsfiddle, that would be even better.) */

@@ -1,0 +1,14 @@
+
+#inner {
+    width: 50%;
+    margin: 0 auto;
+}
+
+/* Of course, you don't have to set the width to 50%. Any width less than the containing div will work. The margin: 0 auto is what does the actual centering. */
+
+/* If you are targeting IE8+, it might be better to have this instead */
+
+#inner {
+    display: table;
+    margin: 0 auto;
+}

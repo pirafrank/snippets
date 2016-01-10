@@ -1,0 +1,11 @@
+
+.container { 
+    width: 200px; 
+    height: 200px; 
+    border-radius: 8%; /* set 50% to make the div a circle */
+    border: 2px solid #34a;
+}
+
+.container img { 
+    width: 100%; 
+}

@@ -1,0 +1,19 @@
+
+#footer {
+    text-align: center; /* align center font-awesome in cicle (div) */
+    line-height: inherit; /* inherit line-height to align in the middle */
+}
+
+/* FULL CODE */
+#footer i.fa {
+    height: 40px;
+    width: 40px;
+    text-align: center; 
+    line-height: inherit;
+    border: 2px solid #8c8c8c;
+    font-size: 20px;
+    padding: 4px 5px;
+    border-radius: 50%;
+    color: #8c8c8c;
+    transition: all 0.5s;
+}

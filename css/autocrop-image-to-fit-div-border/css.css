@@ -1,0 +1,10 @@
+.container { 
+    width: 200px;
+    height: 200px;
+    border-radius: 8%;
+    overflow: hidden; 
+}
+
+.container img { 
+    width: 100%; 
+}
