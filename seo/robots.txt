@@ -1,0 +1,5 @@
+
+# disable everything
+
+User-agent: *
+Disallow:
