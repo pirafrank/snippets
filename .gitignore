@@ -1,2 +1,11 @@
-# excluding node modules
-/javascript/node_modules
+# node modules
+**/node_modules
+
+# Logs
+**/logs
+*.log
+**/npm-debug.log*
+
+# npm temp cache
+**/.npm
+
