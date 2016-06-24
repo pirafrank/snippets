@@ -1,8 +1,8 @@
 #!/bin/bash
 
 if [[ $EUID -ne 0 ]]; then
-    echo "no root priviledges"
+    echo "Error: you need to run this script with root priviledges"
     exit 1
-else 
-    echo "running as root"
+else
+    echo "Running as root..."
 fi
